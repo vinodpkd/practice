@@ -55,7 +55,7 @@ Would you like to see how this logic changes if you're reading array values from
 
 //P3.cpp : Program to reverse the elements of an array.
 
-``cpp
+```cpp
 #include<iostream>
 using namespace std;
 
