@@ -78,6 +78,7 @@ int main()
 		*/
 		std::swap(arr[i],arr[j]);
 		/*
+		#include <algorithm>
 		std::vector<int> a{1,2,3,4,5,6,7,8,9,10};
   		std::reverse(a.begin(), a.end());
   */
