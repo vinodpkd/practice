@@ -1,9 +1,10 @@
 //P2.cpp : Program to find the smallest and largest number in an array.
 //https://github.com/bpbpublications/Comprehensive-Data-Structures-and-Algorithms-in-C-Plus-Plus/blob/main/Chapter%2002/P2.cpp
 
+```cpp
 #include<iostream>
 using namespace std;
-```cpp
+
 int main()
 {
 	int arr[10] = {2,5,4,1,8,9,11,6,3,7};
