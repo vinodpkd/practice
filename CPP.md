@@ -3,7 +3,7 @@
 
 #include<iostream>
 using namespace std;
-
+```cpp
 int main()
 {
 	int arr[10] = {2,5,4,1,8,9,11,6,3,7};
@@ -23,7 +23,7 @@ int main()
 
 	return 0;
 }//End of main()
-
+```
 
 Great question! The line `small = large = INT_MIN;` is **not required** in your original program — and in fact, it would be **incorrect** for your current logic.
 
